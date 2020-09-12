@@ -7,3 +7,5 @@ ensinando commit
 modificando aquivo
 
 Gostando do curso
+
+commit para o github
